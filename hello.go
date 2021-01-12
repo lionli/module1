@@ -7,3 +7,4 @@ func Hello() string {
 func Hello2() string {
   return "Hello2"
 }
+
